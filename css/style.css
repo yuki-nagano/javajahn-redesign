@@ -11,6 +11,11 @@ h6 {
   font-size: 20px;
 }
 
+.text_center {
+  text-align: center;
+}
+
+
 .cursive {
   font-family: 'Shadows Into Light', cursive;
 }
@@ -69,7 +74,7 @@ h6 {
   letter-spacing: .07em;
 }
 
-.our_pride_menu, .serving_ballard, .footer {
+.our_pride_menu, .serving_ballard, .about_this_website, .footer {
   /* background-color: lavenderblush; */
   background-color: thistle;
 }
@@ -154,6 +159,11 @@ a:hover {
 .lets_talk a {
   font-weight: bold;
 }
+
+.link_color_white {
+  color: rgb(120, 58, 120);;
+}
+
 
 footer {
   text-align: center;

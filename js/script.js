@@ -12,20 +12,16 @@ $(document).ready(function() {
     responsiveClass:true,
     responsive:{
         0:{
-            items:1.2,
-            dots:true
+            items:2,
         },
           500:{
-            items:1.7,
-            dots:true
+            items:2,
         },
           768:{
-            items:2.5,
-            dots:true
+            items:4,
         },
           1000:{
-            items:3.2,
-            dots:true
+            items:4.5,
         },
 
       }
